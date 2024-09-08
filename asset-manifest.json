@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RestaurantPicker/static/css/main.b9427d1d.css",
+    "main.js": "/RestaurantPicker/static/js/main.2f514018.js",
+    "static/js/453.706cf751.chunk.js": "/RestaurantPicker/static/js/453.706cf751.chunk.js",
+    "index.html": "/RestaurantPicker/index.html",
+    "main.b9427d1d.css.map": "/RestaurantPicker/static/css/main.b9427d1d.css.map",
+    "main.2f514018.js.map": "/RestaurantPicker/static/js/main.2f514018.js.map",
+    "453.706cf751.chunk.js.map": "/RestaurantPicker/static/js/453.706cf751.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9427d1d.css",
+    "static/js/main.2f514018.js"
+  ]
+}
